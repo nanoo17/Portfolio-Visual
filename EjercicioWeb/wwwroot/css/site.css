@@ -1,0 +1,98 @@
+/*@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+*/
+
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+.row {
+    min-height: 100vh;
+    font-family: "Roboto",sans-serif;
+}
+.navbar {
+    background-color: #3A5BA0;
+    width: 100%;
+    position: fixed;
+    height: 40px;
+    z-index: 999;
+    font-family: "Manrope" , sans-serif;
+}
+    .navbar a {
+        color: white;
+        font-size: small;
+    }
+    .navbar a:hover {
+            color: #FFF8F0;
+            font-size: small;
+        }
+
+.nav-item {
+    margin-right: 6px;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container2 {
+    background-color: #FFA500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.title {
+    margin-left: 10px;
+    color: white;
+}
+.description{
+    color: white;
+}
+.socials {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-left: 10px
+
+}
+.socials-icon {
+    font-size: 30px;
+    text-decoration: none;
+    margin-right: 15px;
+    color: #FFF8F0;
+}
+
+
+.progress {
+    border-radius: 10px;
+}
+
+    .progress .progress-bar {
+        width: 0px;
+        border-radius: 10px;
+        transition: 2s;
+    }
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    line-height: 60px;
+}

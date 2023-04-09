@@ -1,0 +1,62 @@
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\appsettings.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.staticwebassets.runtime.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.exe
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.deps.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.runtimeconfig.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.dll
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.pdb
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.csproj.AssemblyReference.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.AssemblyInfoInputs.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.AssemblyInfo.cs
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.csproj.CoreCompileInputs.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.RazorAssemblyInfo.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.RazorAssemblyInfo.cs
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.EjercicioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.EjercicioWeb.props
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EjercicioWeb.props
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EjercicioWeb.props
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\bundle\EjercicioWeb.styles.css
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\projectbundle\EjercicioWeb.bundle.scp.css
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.dll
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\refint\EjercicioWeb.dll
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.pdb
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.genruntimeconfig.cache
+D:\Nano\Documentos\repos visual studio 2022\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\ref\EjercicioWeb.dll
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\appsettings.Development.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\appsettings.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.staticwebassets.runtime.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.exe
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.deps.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.runtimeconfig.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.dll
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\bin\Debug\net6.0\EjercicioWeb.pdb
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.csproj.AssemblyReference.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.AssemblyInfoInputs.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.AssemblyInfo.cs
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.csproj.CoreCompileInputs.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.MvcApplicationPartsAssemblyInfo.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.RazorAssemblyInfo.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.RazorAssemblyInfo.cs
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.EjercicioWeb.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.build.EjercicioWeb.props
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.EjercicioWeb.props
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.EjercicioWeb.props
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.build.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\staticwebassets.development.json
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\bundle\EjercicioWeb.styles.css
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\scopedcss\projectbundle\EjercicioWeb.bundle.scp.css
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.dll
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\refint\EjercicioWeb.dll
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.pdb
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\EjercicioWeb.genruntimeconfig.cache
+D:\Nano\Documentos\Ingematica\EjercicioWeb\EjercicioWeb\obj\Debug\net6.0\ref\EjercicioWeb.dll
